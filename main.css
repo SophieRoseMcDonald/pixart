@@ -88,6 +88,10 @@ float: left;
   width: 70px;
 }
 
-.blocks {
-  
+.square {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  border: 1px solid black
+
 }
